@@ -1,4 +1,3 @@
-// id image company postedAt contract location role position
 const jobListings = [
   {
     id: 1,
